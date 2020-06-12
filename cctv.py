@@ -1,7 +1,7 @@
 import picamera
 import datetime
-import time
 import pygame
+import time
 
 pygame.mixer.init()
 pygame.mixer.music.load("siren.wav")
