@@ -54,13 +54,13 @@ How do I get started?
     2. siren.wav
     
   
-    ● Finally, type "python cctv.py" in the directory where the file is located.
+   ● Finally, type "python cctv.py" in the directory where the file is located.
   
       
  Where can I get more help, if I need it?
  
-    ● https://m.blog.naver.com/chandong83/220732917839
+   1. https://m.blog.naver.com/chandong83/220732917839
   
-   ● https://www.youtube.com/watch?v=93K2Crndvfc
+   2. https://www.youtube.com/watch?v=93K2Crndvfc
   
   
