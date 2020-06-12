@@ -63,6 +63,6 @@
       2. https://www.youtube.com/watch?v=93K2Crndvfc
   
   
-  **RINK of FINAL PRESENTATION**
-        https://youtu.be/cG3y2maxZdw
+  **Address of Final Presentation Video**
+        ●https://youtu.be/cG3y2maxZdw
   
