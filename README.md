@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/54634455/84468402-b3947680-acb9-11ea-9dfd-8c77789e8cc7.png)
 
 
-Table Of Contexts
+*Table Of Contexts*
 
 
    ● What does this project do?
@@ -15,7 +15,7 @@ Table Of Contexts
    ● Where can I get more help, if I need it?
 
 
-What does this project do?
+*What does this project do?*
 
    ● This project makes the role of crime prevention more clear.
     
@@ -24,14 +24,14 @@ What does this project do?
    ● Sound siren
   
    
-Why is this project useful?
+*Why is this project useful?*
 
    ● This project is useful not only because you can film a thief when you are away from home 
   
    ● but also because you can make more clear crime prevention by making a siren sound.
   
   
-How do I get started?
+*How do I get started?*
 
    ● First, you prepare some materials and connect them to the raspberry pi
   
@@ -57,7 +57,7 @@ How do I get started?
    ● Finally, type "python cctv.py" in the directory where the file is located.
   
       
- Where can I get more help, if I need it?
+ *Where can I get more help, if I need it?*
  
    1. https://m.blog.naver.com/chandong83/220732917839
   
