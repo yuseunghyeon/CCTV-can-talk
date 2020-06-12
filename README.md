@@ -19,9 +19,9 @@
 
     ● This project makes the role of crime prevention more clear.
     
-    ● Save video
+    ● Store evidence video when criminals enter your house
   
-    ● Sound siren
+    ● Sound siren when criminal enter your house to make sure crime prevention
   
    
 **Why is this project useful?**
