@@ -1,5 +1,6 @@
 **If the program doesn't work** 
       Turn off the raspberrypi and reboot.
+      try using issue and pull request templates.
 
 **Provide new features**
       This project can be used in many ways.
@@ -7,6 +8,6 @@
 
 **How to run this program**
       1.Connect raspberry pi with camera module, keyboard, mouse, monitor, speaker, etc.
-      2. Clone the corresponding repository in your directory
-      3.Type"python cctv.py" in your terminal
+      2. Clone the corresponding repository in your directory.
+      3.Type"python cctv.py" in your terminal.
       4.If you want to exit, enter CTRL+Z.
