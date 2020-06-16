@@ -70,7 +70,7 @@
 
         ●The existing CCTVs have been developed into CCTVs that sound siren.
         ●I think a clearer crime prevention is in line with the purpose of this project. 
-        ●Additionally, the code has been modified to make an alarm sound by connecting with the speaker, and the video has been saved           ●every 15 seconds and the alarm has been set to sound.
+        ●Additionally, the code has been modified to make an alarm sound by connecting with the speaker, and the video has been save every 15 seconds and the alarm has been set to sound.
 
   
   **Address of Final Presentation Video**
