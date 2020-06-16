@@ -61,7 +61,14 @@
       1. https://m.blog.naver.com/chandong83/220732917839
   
       2. https://www.youtube.com/watch?v=93K2Crndvfc
-  
+      
+**Materials I used(citation)**
+        https://blog.naver.com/icbanq/221687097041
+
+**Newly Added Items**
+        The existing CCTVs have been developed into CCTVs that sound siren.
+        I think a clearer crime prevention is in line with the purpose of this project.      
+
   
   **Address of Final Presentation Video**
       -> https://youtu.be/cG3y2maxZdw
